@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem 'sinatra', '>= 2.2.3'
-gem 'puma', '>= 4.3.12'
+gem 'sinatra', '>= 2.0.0'
+gem 'puma', '>= 2.12.0'
 gem 'pg'
 gem 'sequel', '>= 3.45.0'
 gem 'sequel_pg'
